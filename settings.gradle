@@ -1,0 +1,3 @@
+rootProject.name = "WiArch"
+include ':app'
+include ':widgetlibrary'
